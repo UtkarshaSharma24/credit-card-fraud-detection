@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**Streamlit App:** Add your deployed Streamlit URL here
+**Streamlit App:** (https://credit-card-fraud-detection-mp2eurpbwpgxnjuevgcmoa.streamlit.app/?utm_source=chatgpt.com)
 
 ---
 
