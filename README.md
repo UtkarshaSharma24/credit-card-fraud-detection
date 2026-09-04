@@ -285,14 +285,3 @@ Possible extensions include:
 
 **Utkarsh Sharma**
 
-B.Tech CSE (Data Science)
-
-GitHub: Add your GitHub profile URL
-
-LinkedIn: Add your LinkedIn profile URL
-
----
-
-## ⭐ If you found this project useful
-
-Consider giving the repository a ⭐ on GitHub.
